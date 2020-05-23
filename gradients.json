@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Temperature", 
+        "colors": ["#00ffda", "#001a67", "#fffc00", "#e6940e", "#ff0000"]
     }
 ]
